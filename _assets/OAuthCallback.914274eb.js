@@ -1,0 +1,1 @@
+import{d as e,e as a,u as s,o as n,c as r}from"./index.eaced801.js";var t=e({name:"OAuthCallback",setup(){const e=s();a((()=>{e.push({name:"home"})}))}});t.render=function(e,a,s,t,o,u){return n(),r("div")};export default t;
