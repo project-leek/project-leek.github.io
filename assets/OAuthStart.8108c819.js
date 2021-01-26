@@ -1,1 +1,0 @@
-import{d as t,b as r,a as e,c as o}from"./index.f9eb0046.js";const a=t({name:"OAuthStart",props:{oauthProvider:{type:String,required:!0}},setup(t){r((()=>{location.href=`http://localhost:3030/oauth/${t.oauthProvider}`}))}});a.render=function(t,r,a,i,n,s){return e(),o("div")};export default a;
