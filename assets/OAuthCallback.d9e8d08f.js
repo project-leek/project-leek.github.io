@@ -1,1 +1,0 @@
-import{d as e,u as a,o as s,a as n,c as t}from"./index.f28ee0c2.js";const o=e({name:"OAuthCallback",setup(){const e=a();s((()=>{e.push({name:"home"})}))}});o.render=function(e,a,s,o,r,u){return n(),t("div")};export default o;
