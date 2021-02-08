@@ -1,0 +1,1 @@
+import{d as a,a as e,c as l,g as s,t,i as n}from"./index.4b35a5da.js";var r=a({name:"LabeledInput",props:{label:{type:String,required:!0}}});const d={class:"labeled-input w-full flex flex-col"},o={class:"label font-bold ml-6 text-white"};r.render=function(a,r,i,p,b,f){return e(),l("div",d,[s("span",o,t(a.label),1),n(a.$slots,"default")])};export{r as _};
