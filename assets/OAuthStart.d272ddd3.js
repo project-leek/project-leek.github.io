@@ -1,1 +1,0 @@
-import{d as r,b as t,a as e,c as o}from"./index.bc58c633.js";const a=r({name:"OAuthStart",props:{oauthProvider:{type:String,required:!0}},setup(r){t((()=>{location.href=`/oauth/${r.oauthProvider}`}))}});a.render=function(r,t,a,i,n,u){return e(),o("div")};export default a;
