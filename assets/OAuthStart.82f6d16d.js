@@ -1,1 +1,0 @@
-import{d as a,b as r,e,a as t,c as o}from"./index.3ba2527a.js";const u=a({name:"OAuthStart",props:{oauthProvider:{type:String,required:!0}},setup(a){r((()=>{location.href=`${e.value}/oauth/${a.oauthProvider}?redirect=auth/callback`}))}});u.render=function(a,r,e,u,i,d){return t(),o("div")};export default u;
